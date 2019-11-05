@@ -21,7 +21,7 @@ export GOOS=android
 <br/>
 
 ###  go bind
-```console
+```shell
 Usage:
     gomobile command [arguments]
 
